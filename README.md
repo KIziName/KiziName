@@ -11,7 +11,5 @@ I'm a **Python Developer**
 
 ---
 
----
-
 ### 🔥 Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KiziName&theme=radical)](https://git.io/streak-stats)
