@@ -8,7 +8,7 @@ I enjoy writing clean code and experimenting with GUI and graphics.
 - 🌱 Deepening my Python skills  
 - ⚡ Fun fact: I speak two languages – Python and human ones 😄
   
----
+-
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ---
 ### 🛠️ Tech Stack
