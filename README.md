@@ -8,6 +8,8 @@ I enjoy writing clean code and experimenting with GUI and graphics.
 - 🌱 Deepening my Python skills  
 - ⚡ Fun fact: I speak two languages – Python and human ones 😄
 
+-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=KiziName&label=Views&countColor=%23263759)
 ---
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
