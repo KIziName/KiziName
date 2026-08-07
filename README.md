@@ -16,10 +16,5 @@ I enjoy writing clean code and experimenting with GUI and graphics.
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ---
-### 📊 GitHub Stats
-![KiziName's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiziName&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiziName&layout=compact&theme=radical)
-
----
 ### 🔥 Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KiziName&theme=radical)](https://git.io/streak-stats)
