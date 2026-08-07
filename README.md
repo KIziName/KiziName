@@ -30,6 +30,8 @@ I enjoy writing clean code and experimenting with GUI and graphics.
 ![Shutil](https://img.shields.io/badge/-Shutil-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Zipfile](https://img.shields.io/badge/-Zipfile-FFD700?style=flat-square&logo=python&logoColor=black)
 ![Subprocess](https://img.shields.io/badge/-Subprocess-3776AB?style=flat-square&logo=python&logoColor=white)
+![Time](https://img.shields.io/badge/-Time-3776AB?style=flat-square&logo=python&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/-CustomTkinter-5C2D91?style=flat-square&logo=python&logoColor=white)
 
 ---
 ### 🔥 Streak
