@@ -16,6 +16,7 @@ I enjoy writing clean code and experimenting with GUI and graphics.
 
 ### 💻 Platforms
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
