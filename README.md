@@ -13,6 +13,7 @@ I enjoy writing clean code and experimenting with GUI and graphics.
 ![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=flat-square&logo=notepadplusplus&logoColor=black)
 ![IDLE](https://img.shields.io/badge/-IDLE-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pydroid](https://img.shields.io/badge/-Pydroid-3DDC84?style=flat-square&logo=android&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&style=flat)
 
 ### 💻 Platforms
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
