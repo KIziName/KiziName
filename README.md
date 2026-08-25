@@ -9,7 +9,6 @@ I enjoy writing clean code and experimenting with GUI and graphics.
 - ⚡ Fun fact: I speak two languages – Python and human ones 😄
 
 ### IDE
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=flat-square&logo=notepadplusplus&logoColor=black)
 ![IDLE](https://img.shields.io/badge/-IDLE-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pydroid](https://img.shields.io/badge/-Pydroid-3DDC84?style=flat-square&logo=android&logoColor=white)
